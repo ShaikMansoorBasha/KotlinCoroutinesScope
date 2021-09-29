@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KotlinCoroutinesScope</string>
+    <string name="welcome"><b>Welcome to Kotlin Coroutines With Global Scope</b></string>
+    <string name="welcome_lifeCycle"><b>Welcome to Kotlin Coroutines With LifeCycle Scope</b></string>
+    <string name="viewModel_ScopeCycle"><b>Welcome to Kotlin Coroutines With ViewModel Scope Cycle</b></string>
+</resources>
